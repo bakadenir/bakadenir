@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**DevOps Engineer • Full-Stack Developer**
+**AI Native • Full-Stack Developer & Data Analyst**
 
 [![Portfolio](https://img.shields.io/badge/🌐_DataBuddy-databuddy.my.id-00C853?style=for-the-badge)](https://databuddy.my.id)
 [![Email](https://img.shields.io/badge/📧_Email-bakadenir%40gmail.com-D14836?style=for-the-badge)](mailto:bakadenir@gmail.com)
@@ -14,9 +14,9 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student** at Universitas Cakrawala passionate about building complete, production-ready applications — from backend architecture and database design to frontend development and cloud deployment.
+I'm a **Computer Science student** at Universitas Cakrawala with a passion for building complete, data-driven applications — from data pipelines and analytics to full-stack web development and cloud deployment.
 
-> *"Good software isn't just about writing code — it's about shipping working products that solve real problems."*
+> *"Good software isn't just about writing code — it's about turning raw data into actionable insights and shipping products that solve real problems."*
 
 ---
 
@@ -66,27 +66,26 @@ Social link hub (Linktree alternative) & Flutter culinary discovery app.
 
 ## 🛠️ Tech Stack
 
+### Data & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-00C853?style=for-the-badge&logo=caddy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS_Deployment-FF6B6B?style=for-the-badge&logo=serverless&logoColor=white)
 
-### Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Backend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
