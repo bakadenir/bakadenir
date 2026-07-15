@@ -1,8 +1,8 @@
-# 👋 Halo, Saya Deni Romadhon!
+# 👋 Hi, I'm Deni Romadhon!
 
 <div align="center">
 
-**DevOps Engineer • AI/LLM Builder • Python Fullstack Developer**
+**DevOps Engineer • AI/LLM Builder • Full-Stack Developer**
 
 [![Portfolio](https://img.shields.io/badge/🌐_DataBuddy-databuddy.my.id-00C853?style=for-the-badge)](https://databuddy.my.id)
 [![Email](https://img.shields.io/badge/📧_Email-bakadenir%40gmail.com-D14836?style=for-the-badge)](mailto:bakadenir@gmail.com)
@@ -12,19 +12,19 @@
 
 ---
 
-## 🚀 Tentang Saya
+## 🚀 About Me
 
-Mahasiswa **Ilmu Komputer** di Universitas Cakrawala yang passionate di dunia **DevOps & AI Engineering**. Saya membangun solusi end-to-end — dari infrastruktur, deployment, sampai AI/LLM integration.
+I'm a **Computer Science student** at Universitas Cakrawala with a passion for **DevOps & AI Engineering**. I build end-to-end solutions — from infrastructure and deployment to AI/LLM integration.
 
-> *"Saya percaya AI bukan cuma buat riset — AI harus bisa di-deploy ke production, dipakai user beneran, dan kasih impact nyata."*
+> *"AI isn't just for research — it should be deployed to production, used by real users, and deliver real impact."*
 
 ---
 
-## 🏆 Project Unggulan
+## 🏆 Featured Projects
 
 ### 🛍️ [DataBuddy — E-Commerce Analytics Assistant](https://github.com/bakadenir/databuddy)
 
-> **Hybrid AI System:** Rule-Based + Machine Learning + LLM dalam satu dashboard Streamlit.
+> **Hybrid AI System:** Rule-Based + Machine Learning + LLM in a single Streamlit dashboard.
 
 [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://github.com/bakadenir/databuddy)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://github.com/bakadenir/databuddy)
@@ -32,28 +32,48 @@ Mahasiswa **Ilmu Komputer** di Universitas Cakrawala yang passionate di dunia **
 [![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)](https://github.com/bakadenir/databuddy)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://github.com/bakadenir/databuddy)
 
-- 🔬 **3 pendekatan AI**: Rule-Based (segmentasi), ML (forecasting + bundling), LLM (chatbot)
+- 🔬 **3 AI approaches**: Rule-Based (segmentation), ML (forecasting + bundling), LLM (chatbot)
 - 🐳 **Docker Compose** multi-service: Streamlit + Ollama + Caddy + Supabase
 - 🔒 **Production-grade**: HTTPS auto-SSL, custom domain, VPS deployment
-- ⚡ **Hybrid inference**: Ollama lokal (qwen2.5) + GLM-4-Plus API fallback
+- ⚡ **Hybrid inference**: Local Ollama (qwen2.5) + GLM-4-Plus API fallback
 
-### 🔌 [E-Commerce REST API](https://github.com/bakadenir/ecom-mini)
+### 🚀 [CoreHub — All-in-One Productivity App](https://github.com/bakadenir/coreHub)
+
+> **Full-Stack Monorepo:** React 19 + Express.js + Supabase + Midtrans payments.
+
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://github.com/bakadenir/coreHub)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/bakadenir/coreHub)
+[![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://github.com/bakadenir/coreHub)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://github.com/bakadenir/coreHub)
+
+- 📋 **Schedules, Notes, Todos, Habits, Links** — all-in-one dashboard
+- 🔔 **Real-time notifications** — SSE + Push Notifications
+- 💳 **Midtrans payment integration** for donations
+- 🏗️ **Monorepo** — `apps/api` (Express) + `apps/web` (React + Vite + PWA)
+- 🧪 **Tests** — Vitest for both frontend and backend
+
+### 🛒 [E-Commerce REST API](https://github.com/bakadenir/ecom-mini)
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://github.com/bakadenir/ecom-mini)
 [![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)](https://github.com/bakadenir/ecom-mini)
 
-Basic REST API implementation dengan Node.js/Express — CRUD products, authentication, middleware pattern.
+REST API with Node.js/Express — CRUD products, authentication, middleware patterns.
+
+### 🔗 [Gudang Link](https://github.com/bakadenir/gudang-link) • [CuliNode](https://github.com/bakadenir/culinode)
+
+Social link hub (Linktree alternative) & Flutter culinary app.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### DevOps & Infra
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-00C853?style=for-the-badge&logo=caddy&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS_Deployment-FF6B6B?style=for-the-badge&logo=serverless&logoColor=white)
 
 ### AI / ML / LLM
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
@@ -64,22 +84,22 @@ Basic REST API implementation dengan Node.js/Express — CRUD products, authenti
 
 ### Backend & Database
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend & Tools
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 
