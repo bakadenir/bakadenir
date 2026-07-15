@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science student** at Universitas Cakrawala with a passion for building complete, data-driven applications — from data pipelines and analytics to full-stack web development and cloud deployment.
+Full-stack developer and data analyst passionate about building complete, data-driven applications — from data pipelines and analytics to production deployment.
 
 > *"Good software isn't just about writing code — it's about turning raw data into actionable insights and shipping products that solve real problems."*
 
